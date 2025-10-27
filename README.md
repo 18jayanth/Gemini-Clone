@@ -67,7 +67,7 @@
 ---
 
 ## ⚙️ Installation & Setup
-
+```bash
 Follow these steps to set up locally 👇
 
 ### 1️⃣ Clone the repository
@@ -111,7 +111,7 @@ fetch("http://localhost:5000/api/chat", {
   headers: { "Content-Type": "application/json" },
   body: JSON.stringify({ prompt }),
 });
-
+```
 🧠 How It Works
 
 User enters a prompt in the React frontend.
