@@ -1,0 +1,8 @@
+node_modules
+<<<<<<< HEAD
+.env
+=======
+backend/.env
+>>>>>>> cf198496bd6ac70d68a1df4ae72120e293eb32b9
+dist
+build
