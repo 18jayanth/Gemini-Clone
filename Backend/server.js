@@ -9,7 +9,7 @@ import {
 
 dotenv.config();
 const app = express();
-// console.log("Loaded key:", process.env.GEMINI_API_KEY ? "✅ present" : "❌ missing");
+console.log("Loaded key:", process.env.GEMINI_API_KEY ? "✅ present" : "❌ missing");
 
 app.use(cors());
 app.use(express.json());
