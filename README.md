@@ -6,30 +6,38 @@
 ---
 
 ## 🚀 Live Demo
-🔗 **[Coming Soon on Vercel/Netlify]**
+🔗 **[gemini-clone](https://gemini-clone-vbju.vercel.app/)**
 
 ---
 
 ## 📂 Project Structure
 
-Gemini-Clone/
-│
-├── backend/ # Express.js server
+ Gemini-Clone/
+ │
+ <br/>
+ ├── backend/ # Express.js server
+ <br/>
 │ ├── server.js
+<br/>
 │ ├── package.json
+<br/>
 │ ├── .env # Store Gemini API key here
+<br/>
 │ └── .gitignore
 │
+<br/>
 ├── frontend/ # React.js client
+<br/>
 │ ├── src/
+<br/>
 │ ├── public/
+<br/>
 │ ├── package.json
+<br/>
 │ └── .gitignore
+<br/>
 │
-├── screenshots/ # 📸 Add your screenshots here
-│ ├── chat-interface.png
-│ └── response-demo.png
-│
+
 └── README.md
 
 
@@ -92,7 +100,7 @@ npm install
 npm start
 
 
-The frontend runs on http://localhost:3000
+The frontend runs on http://localhost:5500
 
 4️⃣ Connect Frontend ↔ Backend
 
@@ -138,9 +146,7 @@ server.js	Main backend entry file
 
 📱 Mobile-responsive UI enhancements
 
-🧾 License
 
-This project is open-source under the MIT License.
 
 🙌 Acknowledgements
 
@@ -156,4 +162,4 @@ Inspiration from Google Gemini’s interface
 
 Jayanth
 📍 Machine Learning & Full Stack Enthusiast
-🔗 GitHub
+🔗 [Github](https://github.com/18jayanth)
